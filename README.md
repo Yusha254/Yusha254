@@ -1,16 +1,16 @@
-## Hi there 👋
+<p align="center">
+  <img src="YOUR-IMAGE-URL" alt="yusha254 avatar" width="250" />
+</p>
+```yaml
+yusha254@github
 
-<!--
-**Yusha254/Yusha254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+OS: Windows 10 / Android 11
+Environment: Node.js
+Location: Nairobi, Kenya
+Frameworks: React, Jetpack Compose, Express
+Languages: Kotlin, JavaScript, TypeScript, HTML5, CSS3
+Learning: User-Centred Design, Sass, Three.js, Next.js
+Hobbies: Anime, Photography, Fashion, Cooking
+GitHub Stats: 34 contributions in 2025
+Discord: yusha2543044
+```
