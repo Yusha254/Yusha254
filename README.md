@@ -6,9 +6,10 @@
 ```yaml
       
   yusha254@github
+  Location: Nairobi, Kenya
   OS: Windows 10 / Android 11
   Environment: Node.js
-  Location: Nairobi, Kenya
+  CodeWars Rank: 7 Kyu
   Frameworks: React, Jetpack Compose, Express
   Languages: Kotlin, JavaScript, TypeScript, HTML5, CSS3
   Learning: User-Centred Design, Sass, Three.js, Next.js
