@@ -14,6 +14,6 @@
   Languages: Kotlin, JavaScript, TypeScript, HTML5, CSS3
   Learning: User-Centred Design, Sass, Three.js, Next.js
   Hobbies: Anime, Photography, Fashion, Cooking
-  GitHub Stats: 34 contributions in 2025
+  GitHub Stats: 84 contributions in the last year
   Discord: yusha2543044
 ```
