@@ -16,4 +16,5 @@
   Hobbies: Anime, Photography, Fashion, Cooking
   GitHub Stats: 84 contributions in the last year
   Discord: yusha2543044
+  Website: https://joshuakyalo.netlify.app
 ```
